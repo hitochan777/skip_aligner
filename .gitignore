@@ -27,3 +27,4 @@ dump.*
 # executables
 a.out 
 aligner
+skip_aligner
